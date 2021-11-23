@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adrianatl
+- 👋 Hi, I’m @adrian
 - 👀 I’m interested in networking security
-- 🌱 I’m currently learning about linux
+- 🌱 I’m currently learning about python, linux
 - 💞️ I’m looking to collaborate on networking and security
 - 📫 How to reach me adrianatlupu@gmail.com
 
